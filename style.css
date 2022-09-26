@@ -200,6 +200,60 @@ nav ul li a:hover{
     color: white;
     font-size: 19px;
 }
+/* another section */
+.upcoming{
+    padding: 10rem 0;
+}
+.upcoming-box{
+    width: 33.33%;
+    padding: 10px;
+}
+.upcoming-box h2{
+    color: black;
+    text-transform: uppercase;
+    font-size: 2.5rem;
+    padding-bottom: 0.5rem;
+}
+.upcoming-box span{
+    width: 100px;
+    display: boloc;
+    height: 5px;
+    background: #df1040;
+    display: block;
+    border-radius: 25px;
+    margin-bottom: 1rem;
+ }
+.upcoming-box p{
+    font-size: 1.5rem;
+}
+.upcoming-box a{
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 1rem;
+    color: white;
+    background-color: red;
+    padding: 0.5rem 1rem;
+    border-radius: 1rem;
+}
+.small-img{
+    height: 300px;
+    margin-bottom: 1rem;
+}
+.big-img{
+    height: 450px;
+    margin-bottom: 1rem;
+}
+footer{
+    background-color: #ff4747;
+    color: white;
+    padding: 100px auto;
+    padding: 100px;
+    text-align: center;
+}
+footer h2{
+    letter-spacing: 1px;
+    line-height: 2rem;
+}
 
 
 
